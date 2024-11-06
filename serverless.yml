@@ -1,5 +1,5 @@
 org: dillescas
-service: api-web-scraping
+service: api-web-scraping-2
 
 provider:
   name: aws
